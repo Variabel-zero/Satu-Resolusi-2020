@@ -1,6 +1,6 @@
 Mengusai : 
-  --> PHP
+  --> PHP  10%
   --> Codeigniter
   --> Laravel
-  --> Javascript
-  --> Java
+  --> Javascript  - 40%
+  --> Java  5%
